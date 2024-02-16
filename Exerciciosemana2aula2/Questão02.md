@@ -1,0 +1,3 @@
+2. Discuta a importância das anotações de tipo (type hints) na linguagem Python e explique como elas podem ajudar no desenvolvimento de código.
+
+Resposta: A importância das anotoções de tipo em python se dá pois como a linguagem não necessita de marcação do tipo na escrita do codigo, se faz necessário a anotação do tipo para que futuros colaboradores do seu projeto ou até mesmo o proprio criador consiga da uma manutação sem precisar perder tempo procurando saber quais serão os tipos das variações do codigo.
